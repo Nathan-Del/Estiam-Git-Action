@@ -1,4 +1,4 @@
-name: manual-events
+name: manualevents
 
 on: 
   workflow_dispatch:
